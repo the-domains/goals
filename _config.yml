@@ -1,7 +1,7 @@
 name: 'Goals '
 favicon: null
-layout_spectrum: 0.7609299297910184
-typography_spectrum: 0.5541126744356006
+layout_spectrum: 0.99901
+typography_spectrum: 1
 title: '2016'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.42154805385507643
-  lightness: 0.9422598218079656
-  saturation: 0.7692478557582945
-  rhythmicContrast: 0.6096016303636134
+  brandStrength: 0.3125
+  lightness: 0.375
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
