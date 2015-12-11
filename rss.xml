@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Goals ]]></title>
+        <description><![CDATA[Goals ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 11 Dec 2015 11:04:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Про всякое]]></title>
+            <description><![CDATA[<article><h1>Про всякое</h1><p>Танки круче машин</p></article>]]></description>
+            <link>undefinedpro-vsyakoe/index.html</link>
+            <guid isPermaLink="false">6cc82b2c-211f-4964-8c68-8d378a708a13</guid>
+            <pubDate>Fri, 11 Dec 2015 11:04:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
