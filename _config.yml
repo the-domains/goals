@@ -2,6 +2,7 @@ name: 'Goals '
 favicon: null
 layout_spectrum: 0.7609299297910184
 typography_spectrum: 0.5541126744356006
+title: '2016'
 cta:
   domain: null
   bucket: null
